@@ -1,0 +1,441 @@
+matchnum,queue,result,duration,champion,spell1,spell2,keystone,rune,kills,deaths,assists,level,csscore,killpct,class
+0,ARAM,VICTORY,14:48,MISSFORTUNE,Heal,Flash,Conqueror,Domination,5,4,23,15,21,78%,Marksman
+1,ARAM,VICTORY,15:36,KATARINA,Heal,Flash,Dark Harvest,Precision,5,5,13,15,36,69%,Assassin
+2,ARAM,DEFEAT,29:18,VELKOZ,Heal,Flash,Arcane Comet,Precision,13,5,34,18,99,76%,Mage
+3,ARAM,DEFEAT,14:25,HEIMERDINGER,Clarity,Flash,Summon Aery,Inspiration,8,6,17,14,39,78%,Mage
+4,ARAM,DEFEAT,28:50,KOGMAW,Heal,Flash,Lethal Tempo,Sorcery,28,13,31,18,91,82%,Marksman
+5,ARAM,VICTORY,25:35,MALZAHAR,Clarity,Flash,Arcane Comet,Precision,11,9,32,18,140,86%,Mage
+6,ARAM,DEFEAT,24:40,KOGMAW,Heal,Flash,Dark Harvest,Precision,8,11,24,18,67,57%,Marksman
+7,ARAM,VICTORY,14:10,VELKOZ,Heal,Ghost,Arcane Comet,Precision,3,2,22,14,29,81%,Mage
+8,ARAM,DEFEAT,15:34,TWITCH,Heal,Flash,Hail of Blades,Precision,14,8,16,15,37,79%,Marksman
+9,ARAM,VICTORY,16:15,AURELIONSOL,Heal,Flash,Arcane Comet,Resolve,5,6,13,14,30,53%,Mage
+10,ARAM,VICTORY,12:34,AMUMU,Mark,Flash,Aftershock,Sorcery,4,5,14,13,30,86%,Tank
+11,ARAM,DEFEAT,14:05,QUINN,Heal,Flash,Press the Attack,Domination,6,6,20,14,27,79%,Marksman
+12,ARAM,VICTORY,25:29,AHRI,Heal,Flash,Electrocute,Sorcery,9,10,31,18,60,55%,Mage
+13,ARAM,VICTORY,17:04,ANNIE,Heal,Flash,Dark Harvest,Sorcery,11,6,12,16,11,62%,Mage
+14,ARAM,DEFEAT,23:16,AHRI,Heal,Flash,Arcane Comet,Domination,9,7,23,18,29,62%,Mage
+15,ARAM,VICTORY,27:59,TRISTANA,Barrier,Flash,Press the Attack,Domination,12,10,16,18,94,52%,Marksman
+16,ARAM,VICTORY,16:17,ZIGGS,Clarity,Flash,Dark Harvest,Precision,7,3,11,15,33,72%,Mage
+17,ARAM,VICTORY,18:23,TRYNDAMERE,Mark,Flash,Grasp of the Undying,Precision,15,11,22,16,23,70%,Fighter
+18,ARAM,VICTORY,21:08,CORKI,Heal,Flash,Hail of Blades,Precision,14,10,34,18,70,74%,Marksman
+19,ARAM,DEFEAT,24:20,NIDALEE,Heal,Flash,Arcane Comet,Precision,9,8,28,18,29,74%,Assassin
+20,ARAM,DEFEAT,17:59,MAOKAI,Mark,Flash,Aftershock,Precision,1,8,15,15,30,64%,Tank
+21,ARAM,VICTORY,18:43,TWITCH,Heal,Flash,Hail of Blades,Precision,24,8,21,18,52,79%,Marksman
+22,ARAM,VICTORY,14:46,PANTHEON,Mark,Flash,Grasp of the Undying,Precision,5,4,16,15,14,70%,Fighter
+23,ARAM,DEFEAT,24:47,RAMMUS,Mark,Flash,Aftershock,Precision,9,14,39,18,50,75%,Tank
+24,ARAM,DEFEAT,20:01,KARTHUS,Heal,Flash,Dark Harvest,Sorcery,9,10,27,17,46,75%,Mage
+25,ARAM,DEFEAT,15:20,MALPHITE,Mark,Flash,Arcane Comet,Resolve,8,8,14,15,31,73%,Tank
+26,ARAM,VICTORY,18:21,ANNIE,Mark,Flash,Dark Harvest,Sorcery,7,9,17,17,26,56%,Mage
+27,ARAM,VICTORY,17:10,VEIGAR,Heal,Flash,Dark Harvest,Precision,13,6,27,17,40,82%,Mage
+28,ARAM,VICTORY,14:46,TRISTANA,Barrier,Flash,Press the Attack,Domination,9,6,15,14,40,59%,Marksman
+29,ARAM,VICTORY,21:49,TRISTANA,Barrier,Flash,Press the Attack,Domination,7,6,15,18,104,51%,Marksman
+30,ARAM,VICTORY,12:06,LUCIAN,Barrier,Flash,Press the Attack,Domination,3,3,24,13,28,69%,Marksman
+31,ARAM,VICTORY,14:41,LUX,Clarity,Flash,Dark Harvest,Precision,6,2,27,15,26,89%,Mage
+32,ARAM,VICTORY,11:38,DARIUS,Mark,Flash,Grasp of the Undying,Precision,11,4,11,12,20,79%,Fighter
+33,ARAM,DEFEAT,27:42,KAYLE,Heal,Flash,Lethal Tempo,Domination,10,16,29,18,78,70%,Fighter
+34,ARAM,DEFEAT,15:56,ZOE,Heal,Flash,Arcane Comet,Domination,2,9,13,14,32,58%,Mage
+35,ARAM,DEFEAT,26:31,PYKE,Mark,Flash,Conqueror,Domination,13,15,9,18,29,46%,Assassin
+36,ARAM,DEFEAT,12:46,MASTERYI,Mark,Flash,Conqueror,Domination,6,14,11,13,15,77%,Assassin
+37,ARAM,VICTORY,22:14,SONA,Clarity,Flash,Summon Aery,Inspiration,7,4,51,18,39,97%,Support
+38,ARAM,VICTORY,28:06,LEBLANC,Heal,Flash,Arcane Comet,Domination,11,16,32,18,30,63%,Assassin
+39,ARAM,DEFEAT,21:04,MISSFORTUNE,Heal,Flash,Dark Harvest,Precision,13,12,28,18,74,79%,Marksman
+40,ARAM,DEFEAT,19:38,GRAVES,Mark,Flash,Dark Harvest,Precision,9,12,11,16,70,53%,Marksman
+41,ARAM,DEFEAT,19:49,PYKE,Mark,Flash,Dark Harvest,Precision,8,15,15,16,25,51%,Assassin
+42,ARAM,VICTORY,15:08,TRISTANA,Heal,Flash,Press the Attack,Domination,16,9,13,15,50,85%,Marksman
+43,ARAM,VICTORY,17:27,VEIGAR,Heal,Flash,Dark Harvest,Sorcery,7,7,20,16,19,73%,Mage
+44,ARAM,DEFEAT,14:24,NIDALEE,Heal,Flash,Arcane Comet,Precision,7,8,20,15,31,75%,Assassin
+45,ARAM,VICTORY,15:11,ZOE,Barrier,Flash,Dark Harvest,Sorcery,7,6,12,16,24,50%,Mage
+46,ARAM,DEFEAT,18:36,TEEMO,Heal,Flash,Dark Harvest,Precision,2,6,6,13,18,44%,Marksman
+47,ARAM,VICTORY,19:00,NIDALEE,Heal,Flash,Dark Harvest,Precision,10,7,24,18,45,69%,Assassin
+48,ARAM,DEFEAT,17:14,EZREAL,Heal,Flash,Conqueror,Sorcery,10,7,14,16,39,80%,Marksman
+49,ARAM,DEFEAT,30:53,KARTHUS,Mark,Flash,Dark Harvest,Precision,18,21,43,18,120,69%,Mage
+50,ARAM,VICTORY,30:25,SINGED,Mark,Flash,Grasp of the Undying,Sorcery,8,16,47,18,64,74%,Tank
+51,ARAM,DEFEAT,11:48,CAITLYN,Heal,Flash,Fleet Footwork,Sorcery,3,7,4,11,16,64%,Marksman
+52,ARAM,VICTORY,27:22,ZIGGS,Clarity,Flash,Dark Harvest,Sorcery,18,11,24,18,82,63%,Mage
+53,ARAM,VICTORY,31:53,AMUMU,Mark,Flash,Aftershock,Sorcery,5,13,32,18,92,67%,Tank
+54,ARAM,VICTORY,18:24,SIVIR,Heal,Flash,Lethal Tempo,Sorcery,10,8,25,17,66,73%,Marksman
+55,ARAM,VICTORY,18:01,AMUMU,Mark,Flash,Aftershock,Sorcery,8,10,11,16,55,79%,Tank
+56,ARAM,VICTORY,17:15,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,8,6,15,15,35,72%,Fighter
+57,ARAM,VICTORY,26:38,KOGMAW,Barrier,Flash,Dark Harvest,Precision,17,10,24,18,65,66%,Marksman
+58,ARAM,VICTORY,18:38,ZIGGS,Clarity,Flash,Dark Harvest,Sorcery,7,3,22,17,42,67%,Mage
+59,ARAM,DEFEAT,22:03,TRISTANA,Barrier,Flash,Press the Attack,Domination,10,10,19,17,42,64%,Marksman
+60,ARAM,VICTORY,14:08,MISSFORTUNE,Barrier,Flash,Dark Harvest,Precision,5,4,21,14,35,84%,Marksman
+61,ARAM,VICTORY,19:35,MISSFORTUNE,Heal,Flash,Dark Harvest,Precision,21,9,19,18,55,74%,Marksman
+62,ARAM,VICTORY,22:27,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,13,11,25,18,17,67%,Fighter
+63,Nexus Blitz,DEFEAT,17:16,VARUS,Barrier,Flash,Lethal Tempo,Sorcery,3,12,9,17,33,41%,Marksman
+64,Nexus Blitz,VICTORY,09:08,TWISTEDFATE,Barrier,Flash,Electrocute,Sorcery,4,1,14,11,27,60%,Mage
+65,Nexus Blitz,VICTORY,12:26,ASHE,Heal,Flash,Lethal Tempo,Domination,7,5,8,14,20,54%,Marksman
+66,ARAM,DEFEAT,22:10,SIVIR,Heal,Flash,Lethal Tempo,Domination,3,7,16,18,102,70%,Marksman
+67,ARAM,VICTORY,20:16,QUINN,Heal,Flash,Lethal Tempo,Domination,1,5,11,17,53,48%,Marksman
+68,ARAM,DEFEAT,16:16,KHAZIX,Mark,Flash,Dark Harvest,Precision,8,11,8,14,7,62%,Assassin
+69,ARAM,DEFEAT,11:57,ZOE,Heal,Flash,Dark Harvest,Precision,4,6,8,12,23,71%,Mage
+70,ARAM,VICTORY,29:13,VELKOZ,Heal,Flash,Arcane Comet,Inspiration,7,9,26,18,84,67%,Mage
+71,ARAM,DEFEAT,18:14,PANTHEON,Mark,Flash,Conqueror,Domination,8,10,18,16,14,76%,Fighter
+72,ARAM,VICTORY,11:29,ZOE,Heal,Flash,Dark Harvest,Precision,5,2,12,13,17,49%,Mage
+73,ARAM,VICTORY,19:04,ZILEAN,Heal,Flash,Arcane Comet,Precision,6,5,27,18,61,66%,Support
+74,ARAM,DEFEAT,25:18,AURELIONSOL,Heal,Flash,Arcane Comet,Domination,3,14,28,18,60,48%,Mage
+75,ARAM,DEFEAT,21:04,ASHE,Heal,Flash,Lethal Tempo,Sorcery,10,10,22,17,36,71%,Marksman
+76,ARAM,DEFEAT,13:08,NIDALEE,Heal,Flash,Dark Harvest,Sorcery,2,6,11,13,31,62%,Assassin
+77,ARAM,DEFEAT,26:45,VELKOZ,Heal,Flash,Dark Harvest,Sorcery,20,10,20,18,61,87%,Mage
+78,ARAM,VICTORY,11:10,MASTERYI,Mark,Flash,Conqueror,Domination,4,4,9,11,20,54%,Assassin
+79,ARAM,DEFEAT,16:44,MASTERYI,Mark,Flash,Conqueror,Domination,6,10,18,15,20,59%,Assassin
+80,ARAM,DEFEAT,16:41,PYKE,Mark,Flash,Aftershock,Precision,13,12,10,14,5,52%,Assassin
+81,ARAM,VICTORY,23:08,SIVIR,Barrier,Flash,Press the Attack,Domination,14,8,38,18,88,85%,Marksman
+82,ARAM,DEFEAT,13:36,AMUMU,Mark,Flash,Aftershock,Sorcery,0,10,16,13,26,70%,Tank
+83,ARAM,DEFEAT,19:46,MISSFORTUNE,Mark,Flash,Press the Attack,Domination,15,7,15,18,56,81%,Marksman
+84,ARAM,DEFEAT,20:58,BRAUM,Mark,Flash,Guardian,Sorcery,4,12,19,17,11,61%,Support
+85,ARAM,DEFEAT,20:47,MALPHITE,Mark,Flash,Aftershock,Sorcery,2,12,22,17,15,60%,Tank
+86,ARAM,VICTORY,19:13,LUX,Heal,Flash,Arcane Comet,Precision,6,7,23,17,28,76%,Mage
+87,ARAM,VICTORY,20:56,VARUS,Heal,Flash,Dark Harvest,Precision,17,8,19,18,57,69%,Marksman
+88,ARAM,DEFEAT,24:31,BRAND,Heal,Flash,Arcane Comet,Precision,4,11,23,18,67,66%,Mage
+89,ARAM,DEFEAT,13:24,AMUMU,Mark,Flash,Aftershock,Sorcery,1,9,18,13,20,90%,Tank
+90,ARAM,DEFEAT,16:49,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,6,9,20,16,22,70%,Fighter
+91,ARAM,DEFEAT,25:59,QUINN,Barrier,Flash,Press the Attack,Domination,7,14,24,18,68,50%,Marksman
+92,ARAM,DEFEAT,15:58,SIVIR,Heal,Flash,Lethal Tempo,Domination,7,10,16,15,36,74%,Marksman
+93,ARAM,DEFEAT,16:06,AMUMU,Mark,Flash,Aftershock,Sorcery,10,9,21,15,24,69%,Tank
+94,ARAM,DEFEAT,20:00,AURELIONSOL,Heal,Flash,Dark Harvest,Sorcery,5,13,18,16,54,61%,Mage
+95,ARAM,DEFEAT,20:09,JARVANIV,Mark,Flash,Press the Attack,Domination,2,13,18,16,26,71%,Tank
+96,ARAM,DEFEAT,15:11,BLITZCRANK,Mark,Flash,Aftershock,Inspiration,3,10,16,14,15,70%,Tank
+97,ARAM,DEFEAT,10:31,GALIO,Mark,Flash,Aftershock,Sorcery,1,5,11,11,20,67%,Tank
+98,ARAM,VICTORY,22:44,LUX,Clarity,Flash,Arcane Comet,Precision,11,8,41,18,44,91%,Mage
+99,ARAM,VICTORY,28:06,KARTHUS,Heal,Flash,Arcane Comet,Precision,14,15,32,18,111,73%,Mage
+100,ARAM,VICTORY,16:57,AMUMU,Mark,Flash,Aftershock,Sorcery,6,8,22,16,29,64%,Tank
+101,ARAM,VICTORY,17:34,JINX,Heal,Flash,Lethal Tempo,Domination,4,4,13,16,60,61%,Marksman
+102,ARAM,DEFEAT,25:52,VEIGAR,Heal,Flash,Arcane Comet,Precision,18,10,28,18,105,67%,Mage
+103,ARAM,DEFEAT,12:53,LEBLANC,Clarity,Flash,Dark Harvest,Precision,3,9,5,12,8,42%,Assassin
+104,ARAM,DEFEAT,15:53,CORKI,Heal,Flash,Lethal Tempo,Domination,3,10,15,14,22,69%,Marksman
+105,ARAM,VICTORY,13:54,ZIGGS,Clarity,Flash,Dark Harvest,Sorcery,5,5,21,14,32,65%,Mage
+106,ARAM,VICTORY,13:05,VELKOZ,Clarity,Flash,Arcane Comet,Domination,2,2,14,13,16,64%,Mage
+107,ARAM,DEFEAT,22:15,BRAND,Heal,Flash,Arcane Comet,Precision,16,10,27,18,42,86%,Mage
+108,ARAM,VICTORY,26:54,KOGMAW,Heal,Flash,Arcane Comet,Precision,6,10,24,18,56,77%,Marksman
+109,ARAM,VICTORY,24:32,VELKOZ,Heal,Flash,Arcane Comet,Domination,7,4,34,18,62,82%,Mage
+110,ARAM,VICTORY,18:15,AURELIONSOL,Heal,Flash,Arcane Comet,Domination,4,9,13,16,53,43%,Mage
+111,ARAM,DEFEAT,17:04,QUINN,Heal,Flash,Electrocute,Precision,4,8,14,15,47,60%,Marksman
+112,ARAM,VICTORY,22:17,GALIO,Mark,Flash,Aftershock,Precision,8,7,21,18,39,58%,Tank
+113,ARAM,VICTORY,23:50,AURELIONSOL,Heal,Flash,Arcane Comet,Precision,10,13,22,18,69,60%,Mage
+114,ARAM,DEFEAT,26:30,VLADIMIR,Heal,Flash,Phase Rush,Inspiration,9,9,24,18,40,77%,Mage
+115,ARAM,VICTORY,26:13,TRYNDAMERE,Mark,Flash,Lethal Tempo,Sorcery,5,13,23,18,98,62%,Fighter
+116,ARAM,VICTORY,16:36,VEIGAR,Clarity,Flash,Dark Harvest,Sorcery,9,4,24,16,43,66%,Mage
+117,ARAM,DEFEAT,23:17,TWITCH,Heal,Flash,Lethal Tempo,Domination,7,11,13,18,55,74%,Marksman
+118,ARAM,VICTORY,19:38,ZIGGS,Clarity,Flash,Dark Harvest,Sorcery,8,8,24,18,55,64%,Mage
+119,ARAM,VICTORY,25:34,TWISTEDFATE,Clarity,Flash,Arcane Comet,Inspiration,8,9,35,18,78,81%,Mage
+120,ARAM,VICTORY,16:01,VEIGAR,Heal,Flash,Arcane Comet,Domination,7,4,17,16,49,60%,Mage
+121,ARAM,DEFEAT,15:54,TWITCH,Heal,Flash,Lethal Tempo,Domination,8,11,18,14,31,60%,Marksman
+122,ARAM,VICTORY,20:03,JHIN,Heal,Flash,Fleet Footwork,Sorcery,6,8,24,18,70,65%,Marksman
+123,ARAM,DEFEAT,18:44,TWISTEDFATE,Clarity,Flash,Arcane Comet,Domination,6,10,20,16,48,65%,Mage
+124,ARAM,VICTORY,15:44,VARUS,Heal,Flash,Dark Harvest,Precision,9,6,12,15,32,66%,Marksman
+125,ARAM,DEFEAT,16:29,AMUMU,Heal,Flash,Aftershock,Sorcery,5,8,21,15,29,79%,Tank
+126,ARAM,VICTORY,16:06,LEBLANC,Heal,Flash,Arcane Comet,Inspiration,17,6,18,17,35,73%,Assassin
+127,ARAM,VICTORY,15:37,SIVIR,Heal,Flash,Lethal Tempo,Domination,10,6,22,17,68,71%,Marksman
+128,ARAM,VICTORY,21:37,ZIGGS,Clarity,Flash,Arcane Comet,Inspiration,8,7,22,18,87,71%,Mage
+129,ARAM,VICTORY,16:20,JARVANIV,Mark,Flash,Conqueror,Domination,5,11,28,15,16,69%,Tank
+130,ARAM,VICTORY,21:03,SIVIR,Heal,Flash,Lethal Tempo,Domination,7,8,37,18,64,79%,Marksman
+131,ARAM,VICTORY,26:42,VELKOZ,Clarity,Flash,Arcane Comet,Precision,11,8,30,18,101,72%,Mage
+132,ARAM,DEFEAT,21:27,JHIN,Clarity,Flash,Conqueror,Domination,6,10,20,18,47,55%,Marksman
+133,ARAM,DEFEAT,18:40,TWISTEDFATE,Clarity,Flash,Arcane Comet,Inspiration,6,8,21,17,54,82%,Mage
+134,ARAM,DEFEAT,16:27,ZIGGS,Clarity,Flash,Arcane Comet,Inspiration,3,6,17,15,44,83%,Mage
+135,ARAM,VICTORY,23:01,JINX,Heal,Flash,Lethal Tempo,Domination,11,10,16,18,49,57%,Marksman
+136,ARAM,VICTORY,20:47,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,5,11,22,18,26,51%,Fighter
+137,ARAM,VICTORY,17:26,AMUMU,Mark,Flash,Grasp of the Undying,Domination,14,8,22,16,26,73%,Tank
+138,ARAM,DEFEAT,15:11,KAYLE,Heal,Flash,Conqueror,Domination,6,6,18,16,49,83%,Fighter
+139,ARAM,VICTORY,21:23,DARIUS,Mark,Flash,Conqueror,Domination,15,9,22,18,32,58%,Fighter
+140,ARAM,DEFEAT,21:21,AMUMU,Mark,Flash,Grasp of the Undying,Sorcery,9,12,26,17,17,66%,Tank
+141,ARAM,VICTORY,15:17,MISSFORTUNE,Heal,Flash,Lethal Tempo,Domination,9,5,13,14,25,67%,Marksman
+142,ARAM,VICTORY,24:08,MALPHITE,Mark,Flash,Arcane Comet,Domination,11,14,23,18,11,68%,Tank
+143,ARAM,VICTORY,16:54,BRAUM,Mark,Flash,Guardian,Precision,3,6,30,17,16,85%,Support
+144,ARAM,VICTORY,14:26,MONKEYKING,Mark,Flash,Conqueror,Domination,6,9,17,13,11,68%,
+145,ARAM,DEFEAT,16:56,ANNIE,Mark,Flash,Arcane Comet,Domination,9,8,11,14,30,80%,Mage
+146,ARAM,VICTORY,17:57,SONA,Heal,Flash,Summon Aery,Inspiration,4,5,35,17,28,91%,Support
+147,ARAM,VICTORY,24:31,LEBLANC,Clarity,Flash,Arcane Comet,Inspiration,10,10,23,18,24,56%,Assassin
+148,ARAM,DEFEAT,19:49,NIDALEE,Clarity,Flash,Dark Harvest,Precision,10,8,9,17,24,70%,Assassin
+149,ARAM,VICTORY,13:43,JAX,Mark,Flash,Conqueror,Domination,5,5,9,13,4,52%,Fighter
+150,ARAM,VICTORY,17:49,ASHE,Heal,Flash,Lethal Tempo,Sorcery,11,6,15,16,55,90%,Marksman
+151,ARAM,DEFEAT,17:15,QUINN,Heal,Flash,Press the Attack,Domination,5,6,12,16,41,59%,Marksman
+152,ARAM,VICTORY,25:43,TWITCH,Heal,Flash,Electrocute,Precision,7,9,20,18,66,57%,Marksman
+153,ARAM,VICTORY,20:02,LEBLANC,Heal,Flash,Electrocute,Precision,14,6,27,18,42,79%,Assassin
+154,ARAM,VICTORY,30:28,ZED,Mark,Flash,Electrocute,Precision,14,16,14,18,88,42%,Assassin
+155,ARAM,DEFEAT,17:42,GAREN,Mark,Flash,Conqueror,Sorcery,10,10,8,17,23,60%,Fighter
+156,ARAM,DEFEAT,13:44,PANTHEON,Mark,Flash,Conqueror,Domination,1,6,3,12,15,40%,Fighter
+157,ARAM,VICTORY,25:47,TEEMO,Heal,Flash,Dark Harvest,Precision,20,9,21,18,32,71%,Marksman
+158,ARAM,VICTORY,17:17,SONA,Heal,Clarity,Glacial Augment,Sorcery,1,4,38,17,21,98%,Support
+159,ARAM,DEFEAT,19:35,JINX,Heal,Flash,Lethal Tempo,Inspiration,12,8,20,18,87,71%,Marksman
+160,ARAM,VICTORY,14:25,SONA,Heal,Clarity,Summon Aery,Inspiration,2,3,27,15,25,94%,Support
+161,ARAM,VICTORY,20:10,EZREAL,Heal,Flash,Conqueror,Sorcery,12,5,6,17,37,56%,Marksman
+162,ARAM,DEFEAT,15:15,MONKEYKING,Mark,Flash,Grasp of the Undying,Domination,1,8,16,14,12,65%,
+163,ARAM,DEFEAT,22:36,MISSFORTUNE,Heal,Flash,Dark Harvest,Precision,11,8,26,18,57,79%,Marksman
+164,ARAM,VICTORY,17:04,TWITCH,Heal,Flash,Lethal Tempo,Domination,7,8,21,16,50,64%,Marksman
+165,ARAM,VICTORY,17:50,AMUMU,Mark,Flash,Aftershock,Sorcery,13,8,23,16,28,77%,Tank
+166,ARAM,DEFEAT,21:08,MALPHITE,Mark,Flash,Aftershock,Sorcery,16,13,20,18,28,73%,Tank
+167,ARAM,DEFEAT,18:30,CORKI,Clarity,Flash,Fleet Footwork,Resolve,11,10,17,17,49,74%,Marksman
+168,ARAM,DEFEAT,13:56,MONKEYKING,Mark,Flash,Conqueror,Domination,6,9,7,12,10,68%,
+169,ARAM,VICTORY,18:20,ZIGGS,Clarity,Flash,Arcane Comet,Inspiration,2,4,23,18,64,71%,Mage
+170,ARAM,DEFEAT,17:20,SONA,Clarity,Flash,Summon Aery,Inspiration,3,5,29,16,18,89%,Support
+171,ARAM,DEFEAT,13:36,AATROX,Mark,Flash,Conqueror,Domination,6,8,5,12,20,73%,Fighter
+172,ARAM,VICTORY,21:56,TWITCH,Heal,Flash,Press the Attack,Domination,19,9,33,18,56,80%,Marksman
+173,ARAM,VICTORY,15:14,AATROX,Mark,Flash,Conqueror,Domination,8,6,15,15,21,59%,Fighter
+174,ARAM,VICTORY,24:14,MALPHITE,Mark,Flash,Arcane Comet,Resolve,13,11,18,18,27,69%,Tank
+175,ARAM,VICTORY,20:35,CORKI,Heal,Flash,Fleet Footwork,Sorcery,11,11,20,18,38,55%,Marksman
+176,ARAM,VICTORY,13:38,VELKOZ,Clarity,Flash,Arcane Comet,Inspiration,8,1,26,15,43,83%,Mage
+177,ARAM,VICTORY,26:01,VELKOZ,Heal,Flash,Arcane Comet,Inspiration,12,4,31,18,76,90%,Mage
+178,ARAM,VICTORY,14:10,EZREAL,Heal,Flash,Arcane Comet,Precision,11,3,12,14,15,62%,Marksman
+179,ARAM,DEFEAT,22:04,BRAND,Heal,Flash,Arcane Comet,Precision,11,8,17,18,46,67%,Mage
+180,ARAM,VICTORY,17:38,MALPHITE,Mark,Flash,Grasp of the Undying,Sorcery,5,6,29,17,27,74%,Tank
+181,ARAM,VICTORY,20:20,AMUMU,Clarity,Flash,Grasp of the Undying,Sorcery,8,10,18,18,26,51%,Tank
+182,ARAM,DEFEAT,17:44,VEIGAR,Clarity,Flash,Dark Harvest,Precision,18,7,13,17,69,89%,Mage
+183,ARAM,VICTORY,14:07,AHRI,Heal,Flash,Electrocute,Sorcery,11,4,26,15,43,74%,Mage
+184,ARAM,DEFEAT,16:49,JAX,Mark,Flash,Conqueror,Domination,9,8,8,14,27,65%,Fighter
+185,ARAM,DEFEAT,18:28,KARTHUS,Mark,Flash,Dark Harvest,Precision,12,12,15,18,75,60%,Mage
+186,ARAM,DEFEAT,21:38,AURELIONSOL,Heal,Flash,Arcane Comet,Precision,8,11,26,18,63,77%,Mage
+187,ARAM,DEFEAT,20:16,TEEMO,Heal,Flash,Arcane Comet,Precision,7,12,18,18,28,66%,Marksman
+188,ARAM,DEFEAT,21:10,KATARINA,Heal,Flash,Conqueror,Domination,4,14,12,17,47,40%,Assassin
+189,ARAM,VICTORY,16:25,ASHE,Heal,Flash,Lethal Tempo,Domination,9,7,21,16,34,64%,Marksman
+190,ARAM,DEFEAT,20:51,TWITCH,Heal,Flash,Lethal Tempo,Domination,1,12,17,17,38,72%,Marksman
+191,ARAM,DEFEAT,24:17,LUX,Clarity,Flash,Dark Harvest,Precision,9,8,37,18,47,88%,Mage
+192,ARAM,DEFEAT,15:07,ZIGGS,Clarity,Flash,Arcane Comet,Precision,4,8,14,14,21,78%,Mage
+193,ARAM,DEFEAT,12:47,KAYLE,Barrier,Flash,Lethal Tempo,Sorcery,5,9,12,13,37,74%,Fighter
+194,ARAM,VICTORY,16:08,BRAND,Clarity,Flash,Arcane Comet,Precision,6,5,19,15,17,74%,Mage
+195,ARAM,DEFEAT,14:05,MALPHITE,Mark,Flash,Grasp of the Undying,Precision,3,8,19,13,14,76%,Tank
+196,ARAM,VICTORY,36:06,BRAND,Heal,Flash,Arcane Comet,Domination,19,17,33,18,111,73%,Mage
+197,ARAM,DEFEAT,15:54,GAREN,Mark,Flash,Conqueror,Resolve,4,11,6,13,30,91%,Fighter
+198,ARAM,DEFEAT,17:51,ASHE,Heal,Flash,Lethal Tempo,Domination,11,12,21,16,33,60%,Marksman
+199,ARAM,DEFEAT,14:00,VARUS,Heal,Flash,Electrocute,Precision,8,8,9,13,38,85%,Marksman
+200,ARAM,DEFEAT,27:23,KAYLE,Heal,Flash,Lethal Tempo,Domination,13,13,30,18,120,74%,Fighter
+201,ARAM,VICTORY,19:14,AURELIONSOL,Heal,Flash,Arcane Comet,Precision,10,11,26,17,65,64%,Mage
+202,ARAM,DEFEAT,12:46,TWITCH,Heal,Flash,Lethal Tempo,Sorcery,10,7,6,12,39,80%,Marksman
+203,ARAM,VICTORY,17:12,FIZZ,Mark,Flash,Electrocute,Precision,11,8,17,16,20,64%,Assassin
+204,ARAM,DEFEAT,24:08,BRAUM,Mark,Flash,Guardian,Precision,6,10,36,18,12,72%,Support
+205,ARAM,DEFEAT,17:41,TWISTEDFATE,Heal,Flash,Arcane Comet,Domination,6,6,24,17,61,88%,Mage
+206,ARAM,VICTORY,13:35,JINX,Heal,Flash,Lethal Tempo,Domination,10,5,24,15,31,68%,Marksman
+207,ARAM,DEFEAT,10:24,YUUMI,Exhaust,Ignite,Summon Aery,Precision,1,5,9,10,5,53%,Support
+208,ARAM,DEFEAT,22:06,KAYLE,Heal,Flash,Lethal Tempo,Domination,7,12,11,17,48,64%,Fighter
+209,ARAM,VICTORY,30:05,KAYLE,Barrier,Flash,Lethal Tempo,Domination,20,14,27,18,107,66%,Fighter
+210,ARAM,VICTORY,21:14,JHIN,Heal,Flash,Dark Harvest,Precision,15,8,26,18,62,72%,Marksman
+211,ARAM,DEFEAT,26:20,ASHE,Heal,Flash,Lethal Tempo,Domination,15,14,32,18,75,70%,Marksman
+212,ARAM,VICTORY,14:36,FIZZ,Mark,Flash,Electrocute,Precision,9,6,14,15,24,55%,Assassin
+213,ARAM,DEFEAT,12:16,MISSFORTUNE,Mark,Flash,Press the Attack,Domination,6,10,10,13,35,70%,Marksman
+214,ARAM,DEFEAT,23:10,MASTERYI,Mark,Flash,Conqueror,Domination,10,15,12,18,46,67%,Assassin
+215,ARAM,DEFEAT,27:32,CORKI,Barrier,Flash,Electrocute,Precision,6,16,27,18,75,53%,Marksman
+216,ARAM,VICTORY,22:34,ZIGGS,Barrier,Flash,Arcane Comet,Precision,15,5,29,18,60,86%,Mage
+217,ARAM,VICTORY,26:39,VARUS,Barrier,Flash,Dark Harvest,Precision,13,8,20,18,99,51%,Marksman
+218,ARAM,DEFEAT,16:16,MORGANA,Clarity,Flash,Dark Harvest,Precision,5,4,11,15,40,80%,Mage
+219,ARAM,DEFEAT,16:32,FIDDLESTICKS,Clarity,Flash,Dark Harvest,Precision,1,10,12,15,27,48%,Mage
+220,ARAM,DEFEAT,22:57,QUINN,Barrier,Flash,Electrocute,Precision,10,10,27,18,76,77%,Marksman
+221,ARAM,DEFEAT,22:04,BRAND,Clarity,Flash,Dark Harvest,Sorcery,8,6,15,18,59,55%,Mage
+222,ARAM,VICTORY,22:41,QUINN,Heal,Flash,Electrocute,Precision,11,11,26,18,28,71%,Marksman
+223,ARAM,DEFEAT,23:03,ANIVIA,Clarity,Flash,Arcane Comet,Precision,9,7,21,18,77,67%,Mage
+224,ARAM,VICTORY,28:59,ASHE,Heal,Flash,Lethal Tempo,Domination,10,15,23,18,74,60%,Marksman
+225,ARAM,DEFEAT,16:21,VEIGAR,Heal,Flash,Arcane Comet,Inspiration,5,10,18,16,47,64%,Mage
+226,ARAM,VICTORY,20:52,RAMMUS,Mark,Flash,Aftershock,Precision,6,9,25,18,27,76%,Tank
+227,ARAM,VICTORY,17:38,AMUMU,Mark,Flash,Aftershock,Domination,2,8,28,17,32,63%,Tank
+228,ARAM,DEFEAT,13:55,JAX,Mark,Flash,Conqueror,Domination,10,8,8,13,11,75%,Fighter
+229,ARAM,DEFEAT,10:21,YUUMI,Heal,Flash,Summon Aery,Precision,3,5,11,11,6,88%,Support
+230,ARAM,VICTORY,23:34,VEIGAR,Heal,Flash,Dark Harvest,Sorcery,17,7,22,18,93,71%,Mage
+231,ARAM,DEFEAT,13:30,VEIGAR,Heal,Flash,Arcane Comet,Domination,4,6,8,13,43,60%,Mage
+232,ARAM,VICTORY,16:32,SONA,Heal,Clarity,Summon Aery,Inspiration,2,6,36,16,24,81%,Support
+233,ARAM,VICTORY,19:04,KATARINA,Heal,Flash,Dark Harvest,Precision,8,10,20,16,36,55%,Assassin
+234,ARAM,DEFEAT,25:55,RYZE,Heal,Flash,Arcane Comet,Domination,6,13,22,18,23,54%,Mage
+235,ARAM,DEFEAT,20:04,SIVIR,Heal,Flash,Lethal Tempo,Domination,7,13,32,18,107,85%,Marksman
+236,ARAM,DEFEAT,19:49,KARTHUS,Mark,Flash,Arcane Comet,Precision,15,15,19,18,78,72%,Mage
+237,ARAM,DEFEAT,18:51,BRAND,Heal,Flash,Arcane Comet,Domination,7,9,24,18,52,74%,Mage
+238,ARAM,VICTORY,13:55,MALPHITE,Mark,Flash,Arcane Comet,Domination,8,5,20,14,21,65%,Tank
+239,ARAM,VICTORY,16:42,JHIN,Heal,Flash,Fleet Footwork,Sorcery,11,5,24,16,47,88%,Marksman
+240,ARAM,VICTORY,16:43,SONA,Clarity,Heal,Summon Aery,Inspiration,4,4,30,17,27,74%,Support
+241,ARAM,VICTORY,23:21,JHIN,Heal,Flash,Fleet Footwork,Sorcery,12,9,24,18,99,64%,Marksman
+242,ARAM,VICTORY,16:39,BLITZCRANK,Mark,Flash,Aftershock,Inspiration,6,7,19,15,13,83%,Tank
+243,ARAM,VICTORY,19:21,MALPHITE,Mark,Flash,Grasp of the Undying,Precision,10,8,14,17,16,49%,Tank
+244,ARAM,VICTORY,20:29,VEIGAR,Clarity,Flash,Arcane Comet,Domination,5,9,19,18,58,63%,Mage
+245,ARAM,DEFEAT,18:40,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,9,12,5,16,31,52%,Fighter
+246,ARAM,VICTORY,14:06,AURELIONSOL,Heal,Flash,Arcane Comet,Domination,9,6,12,14,45,54%,Mage
+247,ARAM,VICTORY,20:22,MONKEYKING,Mark,Flash,Grasp of the Undying,Sorcery,9,9,14,18,23,49%,
+248,ARAM,VICTORY,20:56,ZIGGS,Heal,Flash,Arcane Comet,Inspiration,12,6,29,18,97,84%,Mage
+249,ARAM,DEFEAT,16:37,ASHE,Heal,Flash,Lethal Tempo,Domination,11,6,22,17,66,72%,Marksman
+250,ARAM,DEFEAT,12:09,SIVIR,Heal,Flash,Lethal Tempo,Domination,1,8,6,11,40,64%,Marksman
+251,ARAM,DEFEAT,22:19,MISSFORTUNE,Heal,Flash,Press the Attack,Sorcery,6,9,32,18,52,75%,Marksman
+252,ARAM,DEFEAT,21:35,TRYNDAMERE,Mark,Flash,Lethal Tempo,Sorcery,5,15,18,18,58,64%,Fighter
+253,ARAM,DEFEAT,15:21,CAMILLE,Mark,Flash,Conqueror,Domination,8,10,4,13,17,71%,Fighter
+254,ARAM,DEFEAT,18:41,VARUS,Heal,Flash,Dark Harvest,Precision,5,9,13,16,42,62%,Marksman
+255,ARAM,VICTORY,16:26,RAMMUS,Mark,Flash,Grasp of the Undying,Sorcery,3,10,21,15,23,59%,Tank
+256,ARAM,VICTORY,18:26,SONA,Clarity,Heal,Summon Aery,Inspiration,3,9,39,18,25,84%,Support
+257,ARAM,VICTORY,20:34,LUX,Heal,Flash,Summon Aery,Domination,10,3,26,18,80,77%,Mage
+258,ARAM,DEFEAT,26:51,VELKOZ,Clarity,Flash,Arcane Comet,Domination,10,10,33,18,71,66%,Mage
+259,ARAM,VICTORY,17:05,KARTHUS,Clarity,Flash,Dark Harvest,Precision,6,7,9,16,70,58%,Mage
+260,ARAM,DEFEAT,24:00,ZIGGS,Clarity,Flash,Arcane Comet,Domination,17,9,31,18,85,89%,Mage
+261,ARAM,VICTORY,20:46,TWISTEDFATE,Heal,Flash,Dark Harvest,Precision,12,8,25,18,56,73%,Mage
+262,Normal Blind,DEFEAT,18:25,TWISTEDFATE,Flash,Heal,Arcane Comet,Domination,0,2,1,11,65,25%,Mage
+263,Normal Blind,VICTORY,36:21,GAREN,Flash,Heal,Grasp of the Undying,Sorcery,7,6,9,15,92,43%,Fighter
+264,ARAM,VICTORY,17:17,PANTHEON,Mark,Flash,Grasp of the Undying,Sorcery,8,8,23,17,22,76%,Fighter
+265,ARAM,VICTORY,17:21,VELKOZ,Heal,Flash,Arcane Comet,Precision,6,1,20,17,34,72%,Mage
+266,ARAM,DEFEAT,19:33,ZILEAN,Clarity,Flash,Summon Aery,Inspiration,9,7,31,18,51,93%,Support
+267,ARAM,DEFEAT,25:29,ZIGGS,Clarity,Flash,Arcane Comet,Domination,10,8,20,18,66,61%,Mage
+268,ARAM,DEFEAT,18:16,TWITCH,Heal,Flash,Lethal Tempo,Domination,3,9,9,15,49,55%,Marksman
+269,ARAM,VICTORY,15:16,SONA,Heal,Flash,Summon Aery,Inspiration,4,4,29,15,23,94%,Support
+270,ARAM,VICTORY,35:01,VARUS,Heal,Flash,Press the Attack,Domination,23,10,38,18,173,78%,Marksman
+271,ARAM,VICTORY,25:53,BRAND,Heal,Flash,Arcane Comet,Resolve,12,11,35,18,40,77%,Mage
+272,ARAM,VICTORY,17:09,TWITCH,Heal,Flash,Press the Attack,Domination,13,7,15,16,56,72%,Marksman
+273,ARAM,DEFEAT,17:40,TWISTEDFATE,Heal,Flash,Arcane Comet,Domination,6,8,18,17,73,67%,Mage
+274,ARAM,DEFEAT,21:26,AURELIONSOL,Heal,Flash,Conqueror,Domination,7,10,30,18,102,84%,Mage
+275,ARAM,DEFEAT,13:51,TWITCH,Heal,Flash,Lethal Tempo,Sorcery,5,6,18,14,26,82%,Marksman
+276,URF,DEFEAT,18:45,ASHE,Ignite,Flash,Conqueror,Domination,8,11,8,17,76,41%,Marksman
+277,URF,VICTORY,21:13,TWISTEDFATE,Ignite,Flash,Arcane Comet,Domination,9,9,12,17,98,36%,Mage
+278,URF,DEFEAT,14:38,ZILEAN,Ignite,Flash,Arcane Comet,Precision,3,8,9,12,58,50%,Support
+279,ARAM,DEFEAT,17:08,RYZE,Heal,Flash,Summon Aery,Precision,6,10,9,15,27,43%,Mage
+280,ARAM,DEFEAT,15:14,GAREN,Flash,Mark,Grasp of the Undying,Sorcery,5,9,9,14,10,67%,Fighter
+281,ARAM,VICTORY,18:36,RAMMUS,Flash,Mark,Grasp of the Undying,Sorcery,2,9,21,16,15,56%,Tank
+282,ARAM,VICTORY,27:20,MASTERYI,Flash,Mark,Press the Attack,Domination,12,16,24,18,54,65%,Assassin
+283,ARAM,DEFEAT,15:58,YUUMI,Exhaust,Flash,Summon Aery,Precision,0,5,16,15,4,70%,Support
+284,ARAM,VICTORY,16:08,ZILEAN,Heal,Flash,Summon Aery,Inspiration,1,6,24,15,46,71%,Support
+285,ARAM,DEFEAT,15:58,YUUMI,Exhaust,Flash,Summon Aery,Precision,0,5,16,15,4,70%,Support
+286,URF,DEFEAT,13:32,AMUMU,Exhaust,Flash,Grasp of the Undying,Sorcery,1,9,9,6,16,24%,Tank
+287,ARAM,VICTORY,14:55,VARUS,Heal,Flash,Dark Harvest,Precision,14,5,22,15,34,84%,Marksman
+288,ARAM,DEFEAT,24:07,CORKI,Heal,Flash,Press the Attack,Domination,13,8,21,18,73,87%,Marksman
+289,URF,VICTORY,18:28,AMUMU,Ignite,Flash,Grasp of the Undying,Sorcery,2,12,16,15,50,33%,Tank
+290,URF,DEFEAT,15:08,SIVIR,Ignite,Flash,Dark Harvest,Precision,20,11,10,14,98,64%,Marksman
+291,URF,DEFEAT,20:16,ZIGGS,Ignite,Flash,Arcane Comet,Domination,11,11,13,17,107,53%,Mage
+292,URF,DEFEAT,13:41,TWISTEDFATE,Ignite,Flash,Dark Harvest,Sorcery,4,8,5,13,75,27%,Mage
+293,URF,DEFEAT,14:38,LUX,Heal,Flash,Dark Harvest,Precision,3,5,3,12,61,38%,Mage
+294,URF,DEFEAT,20:25,KARTHUS,Heal,Flash,Electrocute,Precision,5,16,17,17,64,51%,Mage
+295,URF,VICTORY,19:58,SIVIR,Heal,Flash,Dark Harvest,Precision,11,6,17,18,136,44%,Marksman
+296,URF,DEFEAT,13:32,AMUMU,Exhaust,Flash,Grasp of the Undying,Sorcery,1,9,9,6,16,24%,Tank
+297,URF,VICTORY,11:28,GAREN,Ignite,Flash,Electrocute,Precision,3,5,6,11,23,18%,Fighter
+298,ARAM,VICTORY,21:24,LUX,Clarity,Flash,Summon Aery,Domination,14,6,24,18,59,72%,Mage
+299,URF,DEFEAT,18:14,SIVIR,Heal,Flash,Conqueror,Domination,5,9,11,15,90,48%,Marksman
+300,URF,DEFEAT,14:31,SIVIR,Heal,Flash,Dark Harvest,Precision,5,8,4,12,75,36%,Marksman
+301,URF,VICTORY,18:37,TWISTEDFATE,Heal,Flash,Arcane Comet,Domination,15,6,16,19,98,48%,Mage
+302,URF,DEFEAT,19:38,VELKOZ,Heal,Flash,Arcane Comet,Domination,3,9,5,16,77,17%,Mage
+303,URF,DEFEAT,16:41,SIVIR,Heal,Flash,Electrocute,Precision,7,13,8,14,88,38%,Marksman
+304,URF,VICTORY,14:42,SIVIR,Heal,Flash,Electrocute,Precision,14,5,13,14,88,59%,Marksman
+305,URF,DEFEAT,16:41,TEEMO,Heal,Flash,Press the Attack,Domination,2,11,3,13,41,20%,Marksman
+306,URF,VICTORY,20:10,VEIGAR,Heal,Flash,Arcane Comet,Domination,11,9,8,17,66,31%,Mage
+307,URF,VICTORY,13:59,MISSFORTUNE,Heal,Flash,Press the Attack,Domination,5,7,7,13,65,27%,Marksman
+308,URF,DEFEAT,16:15,ZIGGS,Heal,Flash,Arcane Comet,Domination,6,11,4,14,51,37%,Mage
+309,URF,VICTORY,19:35,TWISTEDFATE,Heal,Flash,Arcane Comet,Domination,5,8,20,17,82,45%,Mage
+310,ARAM,DEFEAT,18:24,GAREN,Clarity,Flash,Grasp of the Undying,Sorcery,3,9,6,15,23,50%,Fighter
+311,ARAM,VICTORY,21:11,ANIVIA,Clarity,Flash,Arcane Comet,Precision,6,5,22,18,68,78%,Mage
+312,ARAM,VICTORY,11:27,MASTERYI,Mark,Flash,Conqueror,Domination,15,6,14,12,25,73%,Assassin
+313,ARAM,VICTORY,22:43,TWISTEDFATE,Clarity,Flash,Press the Attack,Domination,5,8,19,18,43,41%,Mage
+314,ARAM,VICTORY,13:21,VELKOZ,Clarity,Flash,Arcane Comet,Domination,6,3,25,14,23,79%,Mage
+315,ARAM,VICTORY,19:39,AMUMU,Mark,Flash,Grasp of the Undying,Sorcery,8,10,25,18,47,73%,Tank
+316,ARAM,DEFEAT,19:05,TWITCH,Heal,Flash,Lethal Tempo,Domination,22,10,12,17,43,76%,Marksman
+317,ARAM,VICTORY,19:30,ZILEAN,Clarity,Flash,Arcane Comet,Domination,6,3,15,17,72,78%,Support
+318,ARAM,DEFEAT,26:06,VELKOZ,Clarity,Flash,Arcane Comet,Domination,15,7,27,18,101,78%,Mage
+319,ARAM,DEFEAT,24:43,ZED,Heal,Flash,Electrocute,Precision,8,11,22,18,83,59%,Assassin
+320,ARAM,DEFEAT,14:14,JINX,Heal,Flash,Lethal Tempo,Domination,8,7,10,13,36,82%,Marksman
+321,ARAM,DEFEAT,19:37,TWISTEDFATE,Clarity,Flash,Press the Attack,Sorcery,7,10,17,17,63,65%,Mage
+322,ARAM,DEFEAT,17:28,KAISA,Heal,Flash,Press the Attack,Domination,10,8,14,16,64,62%,Marksman
+323,ARAM,DEFEAT,15:13,VARUS,Heal,Flash,Dark Harvest,Precision,10,6,15,15,54,68%,Marksman
+324,ARAM,DEFEAT,13:44,ASHE,Heal,Flash,Lethal Tempo,Domination,7,8,11,13,24,69%,Marksman
+325,ARAM,VICTORY,20:21,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,11,8,7,18,47,44%,Fighter
+326,ARAM,VICTORY,21:04,MONKEYKING,Mark,Flash,Electrocute,Precision,11,11,25,18,32,77%,
+327,ARAM,VICTORY,30:57,ZOE,Ignite,Flash,Arcane Comet,Domination,6,8,21,18,71,61%,Mage
+328,ARAM,VICTORY,22:47,BRAUM,Mark,Flash,Guardian,Sorcery,4,4,36,18,12,82%,Support
+329,ARAM,DEFEAT,18:01,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,10,9,14,17,37,67%,Fighter
+330,ARAM,VICTORY,17:32,MORGANA,Clarity,Flash,Arcane Comet,Domination,8,4,22,17,41,83%,Mage
+331,ARAM,VICTORY,18:19,SIVIR,Clarity,Flash,Lethal Tempo,Domination,18,7,27,18,95,69%,Marksman
+332,ARAM,DEFEAT,15:11,ASHE,Heal,Flash,Lethal Tempo,Domination,14,7,10,15,64,96%,Marksman
+333,ARAM,VICTORY,17:03,AURELIONSOL,Heal,Flash,Arcane Comet,Precision,13,7,30,18,50,77%,Mage
+334,ARAM,DEFEAT,21:05,KAYLE,Heal,Flash,Lethal Tempo,Domination,8,9,22,18,70,86%,Fighter
+335,ARAM,DEFEAT,17:49,ZOE,Ignite,Flash,Dark Harvest,Sorcery,4,6,10,16,25,58%,Mage
+336,ARAM,VICTORY,18:55,ZILEAN,Clarity,Flash,Summon Aery,Inspiration,10,6,33,18,40,84%,Support
+337,ARAM,VICTORY,23:03,SIVIR,Heal,Flash,Lethal Tempo,Domination,10,8,29,18,130,75%,Marksman
+338,ARAM,DEFEAT,15:02,KAYLE,Heal,Flash,Lethal Tempo,Domination,4,9,21,14,31,83%,Fighter
+339,ARAM,VICTORY,14:04,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,13,3,10,14,22,64%,Fighter
+340,ARAM,VICTORY,14:38,ASHE,Heal,Flash,Lethal Tempo,Domination,10,5,19,15,43,78%,Marksman
+341,ARAM,VICTORY,17:45,SONA,Clarity,Flash,Summon Aery,Inspiration,4,7,25,16,23,94%,Support
+342,ARAM,VICTORY,13:37,ZIGGS,Clarity,Flash,Arcane Comet,Domination,6,1,20,14,23,96%,Mage
+343,ARAM,DEFEAT,17:38,BARD,Heal,Flash,Electrocute,Precision,4,6,13,16,19,74%,Support
+344,ARAM,DEFEAT,16:12,SIVIR,Heal,Flash,Lethal Tempo,Inspiration,5,10,21,15,87,62%,Marksman
+345,ARAM,VICTORY,25:46,GALIO,Clarity,Flash,Aftershock,Sorcery,7,9,24,18,57,67%,Tank
+346,ARAM,VICTORY,17:05,SONA,Clarity,Flash,Summon Aery,Inspiration,2,6,39,16,23,93%,Support
+347,ARAM,VICTORY,16:29,MISSFORTUNE,Heal,Flash,Dark Harvest,Precision,11,5,23,16,59,74%,Marksman
+348,ARAM,DEFEAT,18:47,SINGED,Mark,Flash,Summon Aery,Domination,15,10,25,17,58,82%,Tank
+349,ARAM,VICTORY,18:51,PANTHEON,Mark,Flash,Electrocute,Precision,12,8,20,17,24,68%,Fighter
+350,ARAM,VICTORY,15:31,KAISA,Heal,Flash,Press the Attack,Domination,7,7,24,15,34,70%,Marksman
+351,ARAM,VICTORY,20:49,GALIO,Mark,Flash,Aftershock,Sorcery,11,7,11,18,56,65%,Tank
+352,ARAM,VICTORY,22:45,KAISA,Heal,Flash,Press the Attack,Domination,13,9,33,18,74,79%,Marksman
+353,ARAM,VICTORY,16:07,KOGMAW,Heal,Flash,Lethal Tempo,Domination,18,5,21,17,67,80%,Marksman
+354,ARAM,DEFEAT,17:19,ILLAOI,Mark,Flash,Grasp of the Undying,Sorcery,7,9,13,17,80,80%,Fighter
+355,ARAM,DEFEAT,18:55,NIDALEE,Clarity,Flash,Dark Harvest,Precision,14,9,14,17,30,68%,Assassin
+356,ARAM,DEFEAT,16:13,ZILEAN,Clarity,Flash,Summon Aery,Inspiration,5,7,14,15,60,68%,Support
+357,ARAM,DEFEAT,23:17,NIDALEE,Clarity,Flash,Dark Harvest,Precision,10,12,22,18,50,73%,Assassin
+358,ARAM,VICTORY,17:51,VAYNE,Heal,Flash,Press the Attack,Domination,10,4,24,18,37,69%,Marksman
+359,ARAM,DEFEAT,19:13,PANTHEON,Mark,Flash,Electrocute,Precision,7,10,15,16,20,59%,Fighter
+360,ARAM,DEFEAT,27:39,MALPHITE,Mark,Flash,Arcane Comet,Domination,9,15,23,18,42,82%,Tank
+361,ARAM,DEFEAT,23:27,GAREN,Mark,Flash,Grasp of the Undying,Inspiration,7,12,16,18,39,55%,Fighter
+362,ARAM,VICTORY,23:02,NIDALEE,Clarity,Flash,Arcane Comet,Domination,5,8,35,18,51,68%,Assassin
+363,ARAM,VICTORY,18:39,KAYLE,Heal,Flash,Lethal Tempo,Domination,13,8,19,17,86,94%,Fighter
+364,ARAM,DEFEAT,20:10,CORKI,Clarity,Flash,Press the Attack,Sorcery,6,10,25,17,28,70%,Marksman
+365,ARAM,VICTORY,15:54,CORKI,Clarity,Flash,Arcane Comet,Precision,10,6,16,15,25,74%,Marksman
+366,ARAM,VICTORY,23:39,ZAC,Mark,Flash,Aftershock,Inspiration,12,10,23,18,58,81%,Tank
+367,ARAM,DEFEAT,19:46,MALPHITE,Mark,Flash,Grasp of the Undying,Sorcery,16,10,24,18,40,85%,Tank
+368,ARAM,DEFEAT,17:47,TWISTEDFATE,Mark,Flash,Electrocute,Precision,4,4,14,16,35,64%,Mage
+369,ARAM,VICTORY,16:24,SONA,Clarity,Flash,Summon Aery,Inspiration,4,4,39,18,24,96%,Support
+370,ARAM,DEFEAT,15:47,MALPHITE,Mark,Flash,Grasp of the Undying,Sorcery,4,11,12,13,29,59%,Tank
+371,ARAM,DEFEAT,26:56,TWISTEDFATE,Clarity,Flash,Arcane Comet,Precision,7,13,29,18,88,77%,Mage
+372,ARAM,VICTORY,17:03,EVELYNN,Mark,Flash,Electrocute,Sorcery,2,9,21,16,14,50%,Assassin
+373,ARAM,VICTORY,13:33,SION,Mark,Flash,Grasp of the Undying,Sorcery,11,5,20,15,18,67%,Tank
+374,ARAM,DEFEAT,14:23,AMUMU,Mark,Flash,Aftershock,Precision,3,7,9,13,23,80%,Tank
+375,ARAM,VICTORY,19:54,JINX,Heal,Flash,Fleet Footwork,Sorcery,10,11,20,18,60,70%,Marksman
+376,ARAM,DEFEAT,17:57,KAYN,Mark,Flash,Electrocute,Precision,8,12,8,16,21,50%,Assassin
+377,ARAM,VICTORY,17:24,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,4,9,26,16,16,67%,Fighter
+378,ARAM,VICTORY,20:32,SINGED,Mark,Flash,Dark Harvest,Sorcery,10,11,25,18,47,80%,Tank
+379,ARAM,DEFEAT,17:26,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,12,10,8,16,36,77%,Fighter
+380,ARAM,DEFEAT,15:23,VAYNE,Heal,Flash,Press the Attack,Domination,9,9,8,15,40,57%,Marksman
+381,ARAM,VICTORY,27:20,CORKI,Heal,Flash,Fleet Footwork,Sorcery,14,15,43,18,73,74%,Marksman
+382,ARAM,DEFEAT,16:27,CAITLYN,Heal,Flash,Fleet Footwork,Inspiration,7,10,12,14,31,58%,Marksman
+383,ARAM,VICTORY,21:19,VARUS,Clarity,Flash,Press the Attack,Domination,7,11,33,18,61,80%,Marksman
+384,ARAM,VICTORY,13:45,VEIGAR,Clarity,Flash,Arcane Comet,Domination,7,4,17,14,46,69%,Mage
+385,ARAM,VICTORY,26:06,SORAKA,Heal,Flash,Guardian,Sorcery,8,10,40,18,23,83%,Support
+386,ARAM,DEFEAT,18:38,GAREN,Mark,Flash,Grasp of the Undying,Precision,13,9,20,17,25,77%,Fighter
+387,ARAM,DEFEAT,11:35,VAYNE,Heal,Flash,Press the Attack,Domination,3,9,9,11,17,52%,Marksman
+388,ARAM,DEFEAT,16:11,SKARNER,,Flash,Grasp of the Undying,Sorcery,3,9,16,15,23,61%,Fighter
+389,ARAM,DEFEAT,14:59,MONKEYKING,Mark,Flash,Electrocute,Precision,6,11,8,14,29,58%,
+390,ARAM,DEFEAT,17:12,SORAKA,Heal,Flash,Guardian,Sorcery,3,6,21,16,20,96%,Support
+391,ARAM,DEFEAT,21:04,VIKTOR,Clarity,Flash,Arcane Comet,Domination,9,12,11,17,37,65%,Mage
+392,ARAM,DEFEAT,16:35,JHIN,Heal,Flash,Conqueror,Domination,9,5,11,15,64,80%,Marksman
+393,ARAM,DEFEAT,20:23,IRELIA,Heal,Flash,Electrocute,Precision,4,10,13,17,33,55%,Fighter
+394,ARAM,VICTORY,21:30,BRAND,Clarity,Flash,Arcane Comet,Resolve,6,10,28,18,49,60%,Mage
+395,ARAM,DEFEAT,16:17,VARUS,Heal,Flash,Electrocute,Precision,8,10,13,15,33,75%,Marksman
+396,ARAM,DEFEAT,21:44,MISSFORTUNE,Clarity,Flash,Dark Harvest,Precision,11,10,14,18,34,69%,Marksman
+397,ARAM,DEFEAT,21:11,TWITCH,Clarity,Flash,Dark Harvest,Precision,17,11,15,18,61,73%,Marksman
+398,ARAM,VICTORY,22:39,ANNIE,Clarity,Flash,Arcane Comet,Resolve,6,9,17,18,43,70%,Mage
+399,ARAM,VICTORY,22:04,KOGMAW,Clarity,Flash,Dark Harvest,Precision,7,9,14,18,36,51%,Marksman
+400,ARAM,DEFEAT,21:10,SIVIR,Clarity,Flash,Dark Harvest,Precision,11,11,25,18,123,75%,Marksman
+401,ARAM,VICTORY,16:42,MISSFORTUNE,Clarity,Flash,Dark Harvest,Precision,17,6,22,17,62,85%,Marksman
+402,ARAM,DEFEAT,18:57,TALON,Heal,Flash,Dark Harvest,Precision,6,11,20,16,60,70%,Assassin
+403,ARAM,VICTORY,14:52,JHIN,Heal,Flash,Dark Harvest,Precision,6,6,19,14,22,57%,Marksman
+404,ARAM,DEFEAT,12:45,ZIGGS,Clarity,Flash,Arcane Comet,Domination,0,5,15,13,22,88%,Mage
+405,ARAM,VICTORY,15:41,SONA,Heal,Flash,Summon Aery,Inspiration,4,6,26,15,28,97%,Support
+406,ARAM,DEFEAT,22:24,SORAKA,Heal,Flash,Kleptomancy,Sorcery,0,9,29,18,38,91%,Support
+407,ARAM,VICTORY,23:33,TEEMO,Ignite,Flash,Dark Harvest,Precision,15,10,21,18,40,77%,Marksman
+408,ARAM,DEFEAT,21:02,MISSFORTUNE,Barrier,Flash,Dark Harvest,Precision,7,13,22,17,68,83%,Marksman
+409,ARAM,DEFEAT,19:34,ANIVIA,Heal,Flash,Arcane Comet,Precision,9,10,17,18,64,67%,Mage
+410,ARAM,VICTORY,18:07,MONKEYKING,Heal,Flash,Dark Harvest,Precision,8,9,22,17,35,77%,
+411,ARAM,VICTORY,25:21,AMUMU,Heal,Flash,Grasp of the Undying,Sorcery,9,16,29,18,21,78%,Tank
+412,URF,DEFEAT,24:54,VELKOZ,Heal,Flash,Dark Harvest,Sorcery,6,12,18,20,109,42%,Mage
+413,URF,DEFEAT,18:29,SION,Heal,Flash,Grasp of the Undying,Sorcery,1,12,3,13,65,13%,Tank
+414,URF,VICTORY,18:04,SIVIR,Heal,Flash,Press the Attack,Domination,18,5,11,17,117,60%,Marksman
+415,URF,VICTORY,18:47,TEEMO,Heal,Flash,Arcane Comet,Precision,10,8,17,18,66,41%,Marksman
+416,ARAM,DEFEAT,20:02,VELKOZ,Clarity,Flash,Arcane Comet,Precision,15,11,19,18,94,85%,Mage
+417,URF,VICTORY,14:52,ZIGGS,Heal,Flash,Dark Harvest,Sorcery,12,3,6,13,52,50%,Mage
+418,URF,DEFEAT,17:13,ORNN,Heal,Flash,Grasp of the Undying,Sorcery,2,13,8,12,27,40%,Tank
+419,URF,VICTORY,20:18,VEIGAR,Exhaust,Flash,Arcane Comet,Domination,12,6,5,19,71,33%,Mage
+420,URF,DEFEAT,16:33,LUCIAN,Exhaust,Flash,Press the Attack,Domination,4,10,3,13,48,29%,Marksman
+421,URF,DEFEAT,19:01,ZIGGS,Exhaust,Flash,Arcane Comet,Precision,2,10,7,16,79,18%,Mage
+422,URF,DEFEAT,22:53,AMUMU,Exhaust,Flash,Grasp of the Undying,Sorcery,5,9,13,19,95,31%,Tank
+423,URF,DEFEAT,12:37,GAREN,Heal,Flash,Grasp of the Undying,Sorcery,1,8,7,10,46,57%,Fighter
+424,ARAM,DEFEAT,22:03,KARTHUS,Clarity,Flash,Arcane Comet,Precision,19,14,29,18,86,86%,Mage
+425,ARAM,DEFEAT,15:53,XERATH,Clarity,Flash,Arcane Comet,Precision,5,7,10,15,37,65%,Mage
+426,ARAM,VICTORY,19:32,VLADIMIR,Mark,Flash,Arcane Comet,Domination,8,7,24,17,34,74%,Mage
+427,ARAM,VICTORY,15:36,MISSFORTUNE,Clarity,Flash,Press the Attack,Domination,23,4,20,18,85,91%,Marksman
+428,ARAM,VICTORY,13:50,ZIGGS,Clarity,Flash,Arcane Comet,Domination,16,4,16,14,35,74%,Mage
+429,ARAM,VICTORY,18:17,QUINN,Heal,Flash,Press the Attack,Domination,3,10,12,16,30,42%,Marksman
+430,ARAM,VICTORY,17:44,GAREN,Mark,Flash,Grasp of the Undying,Sorcery,8,8,21,17,25,74%,Fighter
+431,ARAM,DEFEAT,13:20,VIKTOR,Clarity,Flash,Arcane Comet,Domination,3,6,12,12,29,88%,Mage
+432,ARAM,DEFEAT,15:38,TEEMO,Clarity,Flash,Phase Rush,Precision,7,5,9,13,21,62%,Marksman
+433,ARAM,DEFEAT,18:54,SIVIR,Clarity,Flash,Lethal Tempo,Domination,12,9,16,17,123,90%,Marksman
+434,ARAM,VICTORY,16:32,BLITZCRANK,Clarity,Flash,Grasp of the Undying,Precision,6,7,12,15,22,62%,Tank
+435,ARAM,VICTORY,09:34,SIVIR,Barrier,Flash,Lethal Tempo,Domination,10,5,15,12,44,83%,Marksman
+436,ARAM,DEFEAT,08:59,KAYLE,Heal,Flash,Press the Attack,Sorcery,1,8,5,9,11,50%,Fighter
+437,ARAM,DEFEAT,17:40,GAREN,Mark,Flash,Grasp of the Undying,Precision,11,8,7,16,15,82%,Fighter
+438,ARAM,DEFEAT,21:51,TWISTEDFATE,Clarity,Flash,Arcane Comet,Domination,10,11,28,18,48,69%,Mage
+439,ARAM,VICTORY,19:05,VEIGAR,Clarity,Flash,Arcane Comet,Domination,10,6,17,17,69,84%,Mage
