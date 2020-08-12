@@ -30,8 +30,8 @@ def retrieve_account_matches(apikey, accountid, queue=None):
                 full_matches_list.append(match)
             begin += 101
         else: break
-    aram_matches_df = pd.DataFrame.from_dict(full_matches_list)
-    return aram_matches_df
+    matches_df = pd.DataFrame.from_dict(full_matches_list)
+    return matches_df
 
 
 #Match data retrieved above provides unique match ID, but no detail data.
