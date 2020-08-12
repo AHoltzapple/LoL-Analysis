@@ -25,14 +25,18 @@ Other libraries used:
 * `requests`
 * `pandas`
 
-* `retrieve_accountid`:
+`retrieve_accountid`:
+
 Inputs: apikey (str), summonername (str)
+
 Output: Encrypted account ID (str)
 
 To retrieve specific match data, Riot requires making calls using an encrypted account ID. This is a different ID than a player's in-game name (also called 'summoner name'). The API has an operation that returns the encrypted account ID based on the public summoner name. This function takes the user's personal API key and desired summoner name, returning their encrypted account ID as a string.
 
-* `retrieve_account_matches`:
+`retrieve_account_matches`:
+
 Inputs: apikey (str), accountid (str), queue (int, default = None)
+
 Output: Dataframe of account matches
 
 Detailed match data cannot be retrieved directly using account ID. Instead, users must retrieve matches associated to their account, then use the resulting match IDs to retrieve detail data on a per-match basis. This function uses the encrypted account ID to collect all matches. The call can be filtered by 'queue' or game mode. Riot's API limits responses to this call to a length of 100 matches. The function 'paginates' the call to collect all matches. Retrieving a large number of matches may result in a long run time. The output is a dataframe of basic match data including the match IDs.
