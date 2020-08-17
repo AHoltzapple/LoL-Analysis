@@ -11,13 +11,14 @@ With seemingly unending combinations of teammates, champions, abilities, perks, 
 
 * 'lolapi.py' - Python library to collect the match data from the Riot Games API.
 * 'full_aram_data.csv' - Result data collected.
+* 'Usage Example.ipynb' - Usage example of lolapi.py
 * 'aram_analysis.ipynb' - Analysis of match data.
 
 ## Data Collection:
 
-The data for this project was collected through the Riot Game API. Riot has provided their API for public use, although with some restrictions, allowing players to access their data. More information about the Riot Games API can be found on their developer website: [Riot Developer Portal](https://developer.riotgames.com/)
+The data for this project was collected through the Riot Game API. Riot has provided their API for public use, although with some restrictions, allowing all players to access their data. More information about the Riot Games API can be found on their developer website: [Riot Developer Portal](https://developer.riotgames.com/)
 
-I wrote the library `lolapi` with a collection of functions to easily retrieve data from the API. The functions used are described in detail below:
+I wrote the wrapper `lolapi` with a collection of functions to easily retrieve data from the API. The functions used are described in detail below:
 
 Other libraries used:
 * `json`
@@ -25,7 +26,7 @@ Other libraries used:
 * `requests`
 * `pandas`
 
-`retrieve_accountid`:
+*`retrieve_accountid`:
 
 Inputs: apikey (str), summonername (str)
 
@@ -33,8 +34,7 @@ Output: Encrypted account ID (str)
 
 To retrieve specific match data, Riot requires making calls using an encrypted account ID. This is a different ID than a player's in-game name (also called 'summoner name'). The API has an operation that returns the encrypted account ID based on the public summoner name. This function takes the user's personal API key and desired summoner name, returning their encrypted account ID as a string.
 
-
-`retrieve_account_matches`:
+*`retrieve_account_matches`:
 
 Inputs: apikey (str), accountid (str), queue (int, default = None)
 
@@ -42,29 +42,32 @@ Output: Dataframe of account matches
 
 Detailed match data cannot be retrieved directly using account ID. Instead, users must retrieve matches associated to their account, then use the resulting match IDs to retrieve detail data on a per-match basis. This function uses the encrypted account ID to collect all matches. The call can be filtered by 'queue' or game mode. Riot's API limits responses to this call to a length of 100 matches. The function 'paginates' the call to collect all matches. Retrieving a large number of matches may result in a long run time. The output is a dataframe of basic match data including the match IDs.
 
+*`retrieve_match_data`:
 
-`retrieve_match_data`:
-
-Inputs: apikey (str), gameids (list or pandas.Series)
+Inputs: apikey (str), gameids (list or pandas.Series), limit (int, default = None)
 
 Output: List format of detailed data per match
 
 This function makes a call for each 'gameId' in the `gameids` input. The input should be the list or series of the IDs returned by the `retrieve_account_matches` function. The Riot API has a call limit on public accounts of 100 requests every 2 minutes. This limit is quickly reached when retrieving data for over 100 matches. The function accounts for this and will pause for 2 minutes when it receives a resource limit error response from the API, it will then re-try the last call. The call retrieves the full response with all match data provided by the API. The output is a list containing the raw response for each match.
 
+Optional: Use the `limit` argument to restrict the number of matches retrieved starting from the first element of `gameids`.
 
-`parse_match_data`:
+*`parse_match_data`:
 
-Inputs: summonername (str), raw_match_data_list (list)
+Inputs: summonername (str), raw_match_data_list (list), account_matches_df (pandas.DataFrame, default = None)
 
 Output: Dataframe of detailed match data
 
 This function parses the detail match data retrieved from `retrieve_match_data`. It does not output all match data, only some overall information and the available data points for the given summoner name. Further match data can still be parsed from the `retrieve_match_data` output. The output for this function is a dataframe.
 
+Optional: Pass the result dataframe from `retrieve_account_matches` to merge the match detail data to the summary info previously retrieved.
 
-`retrieve_champ_info`:
+*`retrieve_champ_info`:
 
-Inputs: None
+Inputs: match_data (pandas.DataFrame, default = None) 
 
-Output: Dataframe of champion information
+Output: Dataframe of champion information or match_data input with merged champion info
 
-Some champion specific information is not available directly in match data. This function calls the API for champion information to merge into the dataframe created prior. It collects only overall information such as the champion's main role and base ratings for 'attack', 'defense', 'magic', and 'difficulty'. Specific statistics such as damage or health amounts change throughout a match based on items and other enhnacements.
+Some champion specific information is not available directly in match data. This function calls the API for champion information. It collects only overall information such as the champion's main role and base ratings for 'attack', 'defense', 'magic', and 'difficulty'. Specific statistics such as damage or health amounts change throughout a match based on items and other enhancements.
+
+Optional: Pass the match detail data as a dataframe to merge in the champion information directly. Otherwise the function will output a dataframe of champion information only.
