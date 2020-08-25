@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 
-test.py
-__pycache__/lolapi.cpython-37.pyc
-.ipynb_checkpoints/Usage Example-checkpoint.ipynb
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -142,5 +137,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
->>>>>>> fe576afd72fb3eb3b5f00ee4a41c5a2d1848727b
-.idea/workspace.xml
+
+
+# VS Code stuff
+.vscode/
+
